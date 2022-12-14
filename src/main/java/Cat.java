@@ -1,7 +1,6 @@
 public class Cat {
     private String message;
     Cat (){
-
     }
     public String getMessage() {
         return message;
